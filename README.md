@@ -106,6 +106,23 @@ Lär dig det du behöver – resten löser vi tillsammans 💡
 
 ---
 
+## 🎙️ Meta: Hur detta repo skapades
+
+**Intressant nog är hela detta repo ett levande exempel på agentifiering.**
+
+Jag har inte skrivit en enda rad kod eller text manuellt. Allt du ser här är skapat genom att jag pratat med en AI-agent (Claude) och förklarat min vision. Genom min röst har jag:
+- Strukturerat mappar och filer
+- Formulerat all dokumentation
+- Byggt upp hela arkitekturen
+- Skapat workflow-regler för framtida agenter
+
+**Ingen copy-paste. Ingen manuell kod. Bara konversation.**
+
+Detta visar kraften i det vi bygger – där människans intention och AI:s exekvering möts för att skapa något större än delarna.
+
+---
+
 **/ddi-agents-repo**  
 Startpunkt: 2025–06  
 Kurator: Wilhelm Johansson (CIT / DDI)  
+Skapad genom: Ren agentifiering via röststyrning
