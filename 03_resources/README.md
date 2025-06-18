@@ -5,7 +5,7 @@ Här samlar vi **material som vi själva inte skapat**, men som är relevant fö
 Det kan vara länkar, artiklar, kodsnuttar, videos, papers, notebooks, API-dokumentation eller annat som vi använt, vill återkomma till eller bygga vidare på.
 
 🧲 *Denna mapp fungerar som vårt externa minne.*  
-Dumpa här först – sedan bearbetar vi i [[02_kunskapsbas/README]] om/när det behövs.
+Dumpa här först – sedan bearbetar vi i [02_kunskapsbas](../02_kunskapsbas/) om/när det behövs.
 
 ---
 
@@ -34,15 +34,15 @@ Dumpa här först – sedan bearbetar vi i [[02_kunskapsbas/README]] om/när det
 
 - Ge varje resurs ett eget `.md`-kort om det inte är en fil. T.ex. `anthropic-multi-agent.md` → innehåller länk, beskrivning, ev. citat eller "varför den är relevant"
 - Om det är en fil – döp den tydligt: `openai-agent-api.pdf`, `ng-langchain-talk.webloc`
-- Om du planerar att skriva om den i kunskapsbasen, länka dit med `[[02_kunskapsbas/flödesarkitektur]]` eller liknande.
+- Om du planerar att skriva om den i kunskapsbasen, länka dit med `[flödesarkitektur](../02_kunskapsbas/flödesarkitektur.md)` eller liknande.
 
 ---
 
 ## 🔄 Vad som INTE hör hemma här (direkt)
 
-- Våra egna texter och slutsatser → [[02_kunskapsbas/README]]
-- Färdiga workshops → [[01_workshops/README]]
-- Prompttester → [[04_experiments/README]]
+- Våra egna texter och slutsatser → [02_kunskapsbas](../02_kunskapsbas/)
+- Färdiga workshops → [01_workshops](../01_workshops/)
+- Prompttester → [04_experiments](../04_experiments/)
 
 Men! Du får gärna referera hitifrån dit – det är så vi bygger ett sammanhängande ekosystem.
 
@@ -56,9 +56,9 @@ När du hittar något viktigt:
 3. Länka vidare till andra delar av repo:t om det passar
 
 > Exempel:  
-> [[openai-agents-readme]]  
-> [[anthropic-multi-agent]]  
-> [[mcp-component-demo]]
+> [openai-agents-readme.md](./openai-agents-readme.md)  
+> [anthropic-multi-agent.md](./anthropic-multi-agent.md)  
+> [mcp-component-demo.ipynb](./mcp-component-demo.ipynb)
 
 ---
 

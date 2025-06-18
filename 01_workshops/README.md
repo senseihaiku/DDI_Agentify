@@ -8,48 +8,48 @@ Syftet är att samla **modulärt, återanvändbart och adaptivt** material som k
 
 ## 📦 Kategorier av workshops
 
-### [[workshop_overview.md]]
+### [workshop_overview.md](./workshop_overview.md)
 En översikt över alla tillgängliga workshops och moduler – vad de är, när de används, för vem.
 
 ---
 
 ### 🧭 1. Introduktion och orientering
 
-- [[what_is_ai_agents.md]] – Vad är en agent egentligen?
-- [[agentic_thinking.md]] – Hur börjar man tänka agentbaserat?
-- [[from_prompt_to_agent.md]] – En introduktion till hela kedjan: prompt → agent → system
+- [what_is_ai_agents.md](./what_is_ai_agents.md) – Vad är en agent egentligen?
+- [agentic_thinking.md](./agentic_thinking.md) – Hur börjar man tänka agentbaserat?
+- [from_prompt_to_agent.md](./from_prompt_to_agent.md) – En introduktion till hela kedjan: prompt → agent → system
 
 ---
 
 ### 🧰 2. Byggande och experiment
 
-- [[agent_cooking_class.md]] – Steg-för-steg-agentbygge via matlagningsmetafor
-- [[build_your_own_agent.md]] – Praktisk hands-on-session: från behov → roll → funktion
-- [[prompt_to_system_workshop.md]] – Designa ett system från enkla prompts till orkestrerat flöde
+- [agent_cooking_class.md](./agent_cooking_class.md) – Steg-för-steg-agentbygge via matlagningsmetafor
+- [build_your_own_agent.md](./build_your_own_agent.md) – Praktisk hands-on-session: från behov → roll → funktion
+- [prompt_to_system_workshop.md](./prompt_to_system_workshop.md) – Designa ett system från enkla prompts till orkestrerat flöde
 
 ---
 
 ### 🧠 3. Metakognition och själv-agentifiering
 
-- [[agentify_yourself.md]] – Deltagarna modellerar sig själva som agenter
-- [[instructional_design_via_agents.md]] – Hur man bygger instruktioner för både människa och maskin
-- [[role_extraction_sprint.md]] – Identifiera roller i ett team och agentifiera dem
+- [agentify_yourself.md](./agentify_yourself.md) – Deltagarna modellerar sig själva som agenter
+- [instructional_design_via_agents.md](./instructional_design_via_agents.md) – Hur man bygger instruktioner för både människa och maskin
+- [role_extraction_sprint.md](./role_extraction_sprint.md) – Identifiera roller i ett team och agentifiera dem
 
 ---
 
 ### 🕸 4. Multi-agent & A2A-interaktion
 
-- [[multi_agent_design_sprint.md]] – Designa flöden där flera agenter samarbetar
-- [[agent_to_agent_dialogue.md]] – Simulera konversation mellan två agenter
-- [[conflict_resolution_between_agents.md]] – Testa hur agenter kan ha olika mål men samarbeta
+- [multi_agent_design_sprint.md](./multi_agent_design_sprint.md) – Designa flöden där flera agenter samarbetar
+- [agent_to_agent_dialogue.md](./agent_to_agent_dialogue.md) – Simulera konversation mellan två agenter
+- [conflict_resolution_between_agents.md](./conflict_resolution_between_agents.md) – Testa hur agenter kan ha olika mål men samarbeta
 
 ---
 
 ### 🧪 5. Experimentella format
 
-- [[theatre_based_workshop.md]] – Workshops som teater: manus, roller, improvisation
-- [[farm_to_fork_ai.md]] – Matkedjemetafor: från data till intelligent system
-- [[sandbox_simulation.md]] – Öppen experimentmiljö där deltagarna får testa vad som helst
+- [theatre_based_workshop.md](./theatre_based_workshop.md) – Workshops som teater: manus, roller, improvisation
+- [farm_to_fork_ai.md](./farm_to_fork_ai.md) – Matkedjemetafor: från data till intelligent system
+- [sandbox_simulation.md](./sandbox_simulation.md) – Öppen experimentmiljö där deltagarna får testa vad som helst
 
 ---
 
@@ -57,9 +57,9 @@ En översikt över alla tillgängliga workshops och moduler – vad de är, när
 
 Dessa är byggda för att kunna kopplas in i andra sammanhang.
 
-- [[system_prompt_literacy.md]] – Hur man designar ett bra system prompt
-- [[mcp_agent_flowbuilder.md]] – Introduktion till att jobba med MCP-ramverk
-- [[data_to_prompt_workshop.md]] – Hur man går från rådata till promptstruktur
+- [system_prompt_literacy.md](./system_prompt_literacy.md) – Hur man designar ett bra system prompt
+- [mcp_agent_flowbuilder.md](./mcp_agent_flowbuilder.md) – Introduktion till att jobba med MCP-ramverk
+- [data_to_prompt_workshop.md](./data_to_prompt_workshop.md) – Hur man går från rådata till promptstruktur
 
 ---
 
