@@ -1,56 +1,85 @@
-# 🧠 DDI AI-Agent Repository
+# 🧠 DDI Agent Repo (Intern)
 
-Detta är vår interna kunskapsbas, verktygslåda och experimentmiljö för allt som rör AI-agenter, prompt engineering och agentifiering – inom ramen för Data-driven Innovation (DDI) på Chalmers Industriteknik.
+Det här är vår **interna arbetsyta för AI-agenter, agentifiering och promptbaserad utveckling** inom ramen för Data-driven Innovation (DDI) på Chalmers Industriteknik.
 
-## 📍 Syfte
+Här samlar vi allt som rör agentbyggande, verktyg, instruktioner, språk, workshops och experiment. Det är både en **kunskapsbas, en verktygslåda och en prototypmiljö** – byggd för att användas och fyllas på i takt med att vi lär oss mer.
 
-Repo:t fungerar som:
+📍 *Välkommen till en plats där vi tillsammans bygger något levande, växande och strategiskt viktigt – ett ekosystem av kunskap och tillämpning som ska göra oss till ledande inom agentifiering och datadriven innovation i Sverige.*  
+Vi gör det här för att vi tror på det. Vi gör det tillsammans. 🚀
 
-- 📚 En **kunskapsbas**: vårt kollektiva språk, begrepp och förståelse.
-- 🧰 En **verktygslåda**: workshops, mallar, övningar och metoder.
-- 🔬 Ett **experimentfält**: platsen där vi testar, bygger, promptar, sparar.
-- 🔗 Ett **resurslager**: länkar, kod, externa referenser, papers, demos.
+---
 
-Allt detta ska gå att återanvända, dela, och bygga vidare på.
+## 💡 Vad repo:t är till för
 
-## 🗂 Strukturen
+- Att samla **vår egenformulerade kunskap** om agenter och hur vi arbetar med dem
+- Att strukturera **workshopmaterial, mallar och pedagogiska flöden**
+- Att fungera som plats för **test, iteration och promptbaserat experimenterande**
+- Att **dokumentera resurser och externa källor** vi vill kunna återanvända
+- Att på sikt kunna **dela specifika mappar eller filer med resten av CIT** eller använda dem direkt i workshopformat
 
-### `/01_workshops/`  
-Här ligger alla mallar och körbara workshops.  
-Exempel: upplägg för “Agent Cooking Class”, övningar i att designa sin egen agent, prompt-lekar, faciliteringsguider.
+---
 
-### `/02_kunskapsbas/`  
-Vår egenformulerade kunskap.  
-Här beskriver vi med egna ord vad en agent är, hur agentifiering funkar, hur promptteknik används, hur vi tolkar och tillämpar tekniker. Det är **vår röst, vår förståelse.**
+## 🔧 Hur vi jobbar
 
-### `/03_resources/`  
-Här sparar vi externa resurser: länkar, papers, kodsnuttar, videos, APIer, artiklar – sånt vi använder som referens eller bygger vidare på.  
-Hit slänger vi saker först. Sortering kommer sen.
+Det är jag som har börjat samla och kurera materialet här, och repo:t växer fram stegvis. Om du kan GitHub eller vill lära dig, är du välkommen att bidra direkt. Jag själv lär mig medan jag jobbar i det – så det behöver inte vara perfekt, bara funktionellt.
 
-### `/04_experiments/`  
-Här bor våra halvfärdiga idéer, prompttester, agentutkast, systemflöden, kodfragment.  
-Detta är en sandbox. Struktur är sekundärt. Allt som inte passar någon annanstans – dumpa det här.
+Vill du redigera, men är osäker på hur?  
+→ Använd t.ex. ChatGPT/Codex för att få hjälp direkt i GitHub eller terminal.  
+→ Eller börja med att kolla in GitHubs egna guider och YouTube-kanal – det finns massor att hämta.
 
-## 🧭 Hur använder jag repo:t?
+---
 
-- Hittar du en resurs? → Lägg i `/03_resources/` (t.ex. `multi-agent-systems-anthropic.webloc`)
-- Vill du beskriva en metod? → Skriv i `/02_kunskapsbas/` (t.ex. `agentifiering-av-team.md`)
-- Ska du leda workshop? → Hämta från `/01_workshops/` eller skapa en ny mall
-- Vill du leka med prompts, bygga en agent eller testa? → Gå loss i `/04_experiments/`
+## 📁 Mappstruktur
 
-## 🧑‍🤝‍🧑 Förhållningssätt
+### [[01_workshops]]
+Allt som rör faciliterade format: mallar, övningar, guider, agent-canvas, instruktioner.  
+Vi kommer använda denna mapp i olika workshopformat, både internt och externt.
 
-- Dumpa först. Strukturera senare.
-- Vi skriver för varandra – inga utifrånblickar här.
-- Vi bygger för att förstå, inte för att leverera perfektion.
-- Vårt språk ska vara precist men mänskligt. Tänk: “vad hade jag behövt läsa för att fatta det här?”
+> En undermapp `[[01_workshops/projects]]` kommer innehålla konkreta exempel på agentbyggen, MVP:er och testscenarier.
 
-## 🔄 Under utveckling
+---
 
-Repo:t är levande. Det kommer ändras. Men denna struktur är tänkt att hålla över tid. Om något skaver – notera det i en `README.md` eller skapa en `todo.md` i relevant mapp.
+### [[02_kunskapsbas]]
+Här skriver vi ner det vi själva förstår, lär ut och jobbar med:  
+agentdefinitioner, promptlogik, flödesmönster, språkmodeller, arkitekturprinciper.
+
+Detta är vår pedagogiska och praktiska dokumentation 📘
+
+---
+
+### [[03_resources]]
+Extern input: länkar, artiklar, videos, papers, kodfragment, API:er.  
+Allt vi vill spara men inte själva skrivit. Det här är vårt referensbibliotek 🔗
+
+---
+
+### [[04_experiments]]
+Prompttester, agentutkast, halvfärdiga flöden.  
+Här sparas det vi testar, bygger och vill återkomma till. Inget behöver vara färdigt här 🔬
+
+---
+
+## 🔜 Kommande utveckling
+
+- Vi kan lägga till fler mappar (ex. `public`, `projects`, `integrations`) om behov uppstår.
+- Vi kommer använda vissa av dessa delar direkt i CIT-workshops, dokumentation och pilotprojekt.
+- Vi skapar wikilänkar mellan alla `.md`-filer så det går att navigera oavsett mapp.
+- Vi kommer utvärdera hur detta repo kan bli **en plattform för DDI-agentifiering i större skala**, även utanför CIT.
+
+---
+
+## 🎥 Kom igång med GitHub (om du är ny här)
+
+Om du är ovan vid GitHub – no stress. Här är några bra ställen att börja på:
+
+- YouTube: [GitHub – How to get started](https://www.youtube.com/github)
+- GitHub Docs: [https://docs.github.com](https://docs.github.com)
+- Sök på: *“GitHub for beginners site:youtube.com”*
+
+Lär dig det du behöver – resten löser vi tillsammans 💡
 
 ---
 
 **/ddi-agents-repo**  
-Chalmers Industriteknik – Data-driven Innovation  
-2025
+Startpunkt: 2025–06  
+Kurator: Wilhelm Johansson (CIT / DDI)  
