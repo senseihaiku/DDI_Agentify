@@ -31,7 +31,7 @@ Vill du redigera, men är osäker på hur?
 
 ## 📁 Mappstruktur
 
-### [[01_workshops]]
+### [[01_workshops/README]]
 Allt som rör faciliterade format: mallar, övningar, guider, agent-canvas, instruktioner.  
 Vi kommer använda denna mapp i olika workshopformat, både internt och externt.
 
@@ -39,7 +39,7 @@ Vi kommer använda denna mapp i olika workshopformat, både internt och externt.
 
 ---
 
-### [[02_kunskapsbas]]
+### [[02_kunskapsbas/README]]
 Här skriver vi ner det vi själva förstår, lär ut och jobbar med:  
 agentdefinitioner, promptlogik, flödesmönster, språkmodeller, arkitekturprinciper.
 
@@ -47,13 +47,13 @@ Detta är vår pedagogiska och praktiska dokumentation 📘
 
 ---
 
-### [[03_resources]]
+### [[03_resources/README]]
 Extern input: länkar, artiklar, videos, papers, kodfragment, API:er.  
 Allt vi vill spara men inte själva skrivit. Det här är vårt referensbibliotek 🔗
 
 ---
 
-### [[04_experiments]]
+### [[04_experiments/README]]
 Prompttester, agentutkast, halvfärdiga flöden.  
 Här sparas det vi testar, bygger och vill återkomma till. Inget behöver vara färdigt här 🔬
 

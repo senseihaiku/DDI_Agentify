@@ -36,15 +36,15 @@ Allt är tillåtet – så länge det kan hjälpa dig eller någon annan framåt
 - Skriv gärna i toppen av filen:  
   `Status: idé / pågående / klar för flytt / tänkt till workshop`
 - Lägg gärna till länkar tillbaka till andra mappar om det blir något av det:  
-  "Den här prompten kanske passar i [[../01_workshops/prompt-to-system-workshop.md]]"
+  "Den här prompten kanske passar i [[01_workshops/prompt-to-system-workshop]]"
 
 ---
 
 ## 📘 Vad som INTE hör hemma här (när det mognat)
 
-- Klara mallar → [[../01_workshops]]  
-- Bearbetad teori → [[../02_kunskapsbas]]  
-- Externa länkar → [[../03_resources]]
+- Klara mallar → [[01_workshops/README]]  
+- Bearbetad teori → [[02_kunskapsbas/README]]  
+- Externa länkar → [[03_resources/README]]
 
 Men det får *börja här*. Många filer kommer födas här innan de hamnar någon annanstans. Så funkar det.
 

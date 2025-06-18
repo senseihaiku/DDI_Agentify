@@ -20,31 +20,31 @@ Det är inte en samling länkar. Det är **ett sätt att tänka tillsammans.** �
 
 Alla filer här ligger på toppnivå eller i underkategorier om det växer.
 
-### 🧠 [[vad-är-en-agent.md]]
+### 🧠 [[vad-är-en-agent]]
 Definition, begrepp, skillnad mot chatbot, LLM, API eller verktyg.  
 Vi sätter ramarna för hur *vi* använder ordet "agent".
 
-### 🧬 [[agentifiering.md]]
+### 🧬 [[agentifiering]]
 Vad innebär det att agentifiera ett team, en roll, en individ eller en process?  
 Skillnad mellan förstärkning (augmentation) och automatisering.
 
-### 💡 [[prompt-teknik.md]]
+### 💡 [[prompt-teknik]]
 Hur använder vi språk för att styra agenter?  
 Promptmönster, roller, tonalitet, systeminstruktioner och verktygsintegration.
 
-### 🎭 [[systemprompter.md]]
+### 🎭 [[systemprompter]]
 Vad är ett system prompt i praktiken?  
 Skillnader mellan plattforms-promptar, custom instructions och orkestrering.
 
-### 🛠️ [[agentarkitektur.md]]
+### 🛠️ [[agentarkitektur]]
 Hur bygger man ett agentsystem?  
 Beskrivning av rollstruktur (t.ex. Orkestratör, Verkställare, Kritiker), planeringslogik, loopar, kommunikationsgränssnitt.
 
-### 🕸 [[multi-agent-system.md]]
+### 🕸 [[multi-agent-system]]
 Hur agenter samverkar: A2A, koordination, konflikthantering, orkestrering.  
 Här går vi även in på MCP, RAG, och exempel på multi-agentmönster.
 
-### 🧭 [[agent-to-human-flow.md]]
+### 🧭 [[agent-to-human-flow]]
 Human-in-the-loop som designprincip:  
 Hur fungerar feedbackloopar, mellanlagring, människa som reflektor.
 
@@ -62,8 +62,8 @@ Hur fungerar feedbackloopar, mellanlagring, människa som reflektor.
 ## 🧰 Användningstips
 
 - Om du skriver en ny .md-fil – använd [[Wikilinks]] till andra delar i repo:t om relevant.
-- Om du vill länka till resurser, gör det till [[../03_resources]] eller direkt i texten.
-- Har du en tanke som inte passar här? Lägg den i [[../04_experiments]] först.
+- Om du vill länka till resurser, gör det till [[03_resources/README]] eller direkt i texten.
+- Har du en tanke som inte passar här? Lägg den i [[04_experiments/README]] först.
 
 ---
 
