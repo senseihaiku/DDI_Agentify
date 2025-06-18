@@ -19,21 +19,22 @@ Vi gör det här för att vi tror på det. Vi gör det tillsammans. 🚀
 
 ---
 
-## 🔧 Hur vi jobbar – från manuellt till automatiserat
+## 🔧 Hur vi jobbar – testfas och framtidsvisioner
 
-**Nuläge:** Jag (Wilhelm) kurerar och bygger strukturen. Repo:t växer organiskt och är inte öppet för alla ännu.
+**Status:** Jag (Wilhelm) testar och bygger upp strukturen. Detta är en organisk process där jag lägger ut resurser jag redan samlat på mig.
 
-**Så här bidrar du idag:**
-1. Hittar du något intressant? Skicka länken till mig
-2. Osäker på var något hör hemma? → Dumpa i [04_experiments](./04_experiments/)
-3. Jag sorterar och förädlar innehållet till rätt lager
+**För närvarande:**
+- 🧪 **Testfas** – inte öppet för direkta bidrag
+- 💬 **Dela gärna i Teams** om du hittar något intressant
+- 🔄 **Jag återkommer** när strukturen är mer etablerad
+- ❓ **GitHub kanske inte blir slutlösningen** – vi utforskar
 
-**Dit vi är på väg:**
-Ett **intelligent workflow** där AI-agenter känner till våra regler och struktur:
-- Du delar en artikel direkt i ChatGPT/Claude
-- Agenten vet automatiskt var den hör hemma
-- Föreslår kopplingar till befintligt material
-- Flaggar om något behöver bearbetas till kunskapsbasen
+**Framtidsvisionen:**
+När strukturen är klar och reglerna definierade:
+- **Automatisk sortering** via Slack, AI-agenter eller andra kanaler
+- **Fördefinierade regler** som agenter följer för att kurera innehåll
+- **Ingen manuell hantering** – dela en länk och den hamnar rätt
+- **Intelligent koppling** mellan nytt och befintligt material
 
 ---
 
