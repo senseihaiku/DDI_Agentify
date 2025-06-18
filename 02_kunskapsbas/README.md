@@ -1,9 +1,14 @@
-# 📘 02_kunskapsbas – Vår gemensamma förståelse för agentifiering
+# 📘 02_kunskapsbas – Vår bearbetade förståelse
 
-Det här är vår **egna beskrivning av hur vi tänker kring AI-agenter, prompt engineering, språkmodeller och agentifierade system.**  
-Här formulerar vi det vi själva förstår – för att lära, förklara och bygga vidare. Allt som skrivs här är vårt språk, våra begrepp, våra ramar.
+**Här formulerar vi vår egen kunskap** om AI-agenter, agentifiering och generativ AI.
 
-Det är inte en samling länkar. Det är **ett sätt att tänka tillsammans.** 🧠
+**Viktigt:**
+- ✅ Vår egen bearbetade förståelse
+- ✅ Koncept vi själva formulerat och testat
+- ❌ Inte copy-paste från externa källor
+- ❌ Inte bara länkar (de hör hemma i [03_resources](../03_resources/))
+
+**Framtid:** Kommer växa från "AI-agenter" till bredare "Generativ AI"-perspektiv.
 
 ---
 

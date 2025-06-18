@@ -1,8 +1,13 @@
-# 🛠️ 01_workshops – Workshopstruktur och exekverbara format
+# 🎯 01_workshops – Production Ready Material
 
-Den här mappen innehåller allt material för att **planera, facilitera och vidareutveckla workshops** kopplade till AI-agenter, agentifiering, prompt engineering och datadriven intelligens.
+**⚠️ VIKTIGT: Endast färdiga, kvalitetssäkrade workshopdokument här!**
 
-Syftet är att samla **modulärt, återanvändbart och adaptivt** material som kan användas i olika sammanhang: internt lärande, extern kundworkshop, strategiarbete, testmiljö.
+Den här mappen innehåller **produktionsklart material** för att facilitera workshops om AI-agenter, agentifiering och generativ AI.
+
+**Regler för denna mapp:**
+- ✅ Endast genomarbetade och testade workshops
+- ✅ Material som är redo att användas direkt
+- ❌ Inga utkast eller halvfärdiga idéer (de hör hemma i [04_experiments](../04_experiments/))
 
 ---
 

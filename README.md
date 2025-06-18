@@ -19,52 +19,78 @@ Vi gör det här för att vi tror på det. Vi gör det tillsammans. 🚀
 
 ---
 
-## 🔧 Hur vi jobbar
+## 🔧 Hur vi jobbar – från manuellt till automatiserat
 
-Det är jag som har börjat samla och kurera materialet här, och repo:t växer fram stegvis. Om du kan GitHub eller vill lära dig, är du välkommen att bidra direkt. Jag själv lär mig medan jag jobbar i det – så det behöver inte vara perfekt, bara funktionellt.
+**Nuläge:** Jag (Wilhelm) kurerar och bygger strukturen. Repo:t växer organiskt och är inte öppet för alla ännu.
 
-Vill du redigera, men är osäker på hur?  
-→ Använd t.ex. ChatGPT/Codex för att få hjälp direkt i GitHub eller terminal.  
-→ Eller börja med att kolla in GitHubs egna guider och YouTube-kanal – det finns massor att hämta.
+**Så här bidrar du idag:**
+1. Hittar du något intressant? Skicka länken till mig
+2. Osäker på var något hör hemma? → Dumpa i [04_experiments](./04_experiments/)
+3. Jag sorterar och förädlar innehållet till rätt lager
 
----
-
-## 📁 Mappstruktur
-
-### [01_workshops](./01_workshops/)
-Allt som rör faciliterade format: mallar, övningar, guider, agent-canvas, instruktioner.  
-Vi kommer använda denna mapp i olika workshopformat, både internt och externt.
-
-> En undermapp `[01_workshops/projects](./01_workshops/projects/)` kommer innehålla konkreta exempel på agentbyggen, MVP:er och testscenarier.
+**Dit vi är på väg:**
+Ett **intelligent workflow** där AI-agenter känner till våra regler och struktur:
+- Du delar en artikel direkt i ChatGPT/Claude
+- Agenten vet automatiskt var den hör hemma
+- Föreslår kopplingar till befintligt material
+- Flaggar om något behöver bearbetas till kunskapsbasen
 
 ---
 
-### [02_kunskapsbas](./02_kunskapsbas/)
-Här skriver vi ner det vi själva förstår, lär ut och jobbar med:  
-agentdefinitioner, promptlogik, flödesmönster, språkmodeller, arkitekturprinciper.
+## 📁 Mappstruktur – fyra tydliga lager
 
-Detta är vår pedagogiska och praktiska dokumentation 📘
+### [01_workshops](./01_workshops/) – *Production Ready*
+**Färdiga, kvalitetssäkrade workshopmaterial** redo att användas direkt i facilitering.  
+Här ligger endast genomarbetade dokument som är klara för intern eller extern användning.
 
----
-
-### [03_resources](./03_resources/)
-Extern input: länkar, artiklar, videos, papers, kodfragment, API:er.  
-Allt vi vill spara men inte själva skrivit. Det här är vårt referensbibliotek 🔗
+> Kommande: En undermapp `projects/` för konkreta agentbyggen och case studies.
 
 ---
 
-### [04_experiments](./04_experiments/)
-Prompttester, agentutkast, halvfärdiga flöden.  
-Här sparas det vi testar, bygger och vill återkomma till. Inget behöver vara färdigt här 🔬
+### [02_kunskapsbas](./02_kunskapsbas/) – *Vår bearbetade förståelse*
+**Egen kunskap vi formulerat och förädlat** om agenter, agentifiering och generativ AI.  
+Här växer vårt gemensamma språk och våra mentala modeller fram.
+
+> Framöver: Bredare perspektiv på generativ AI, inte bara agenter
+
+---
+
+### [03_resources](./03_resources/) – *Kurerat externt material*
+**Noga utvalda externa resurser** som inspirerar och informerar vårt arbete.  
+Artiklar, videos, case studies – kvalitet över kvantitet.
+
+---
+
+### [04_experiments](./04_experiments/) – *Dumpningsplats & sorteringshubb*
+**Här dumpar du länkar och idéer** – det är här den framtida automatiseringen kommer ske.  
+Osäker på var något hör hemma? Lägg det här så sorterar vi det senare.
+
+🤖 **Framtiden:** Här kommer AI-agenter att sortera och kategorisera automatiskt.
+
+---
+
+## 🤖 Workflow-regler för AI-agenter (under utveckling)
+
+**När du delar via AI-agent ska den veta:**
+- 🎯 **Workshops** = Endast färdiga, produktionsklara dokument
+- 📘 **Kunskapsbas** = Vår bearbetade förståelse, inte copy-paste
+- 🔗 **Resources** = Kurerade externa källor av hög kvalitet
+- 🧪 **Experiments** = Allt osäkert, nytt eller osorterat startar här
+
+**Automatiseringsregler:**
+1. Ny länk → Alltid till experiments först
+2. Agenten analyserar innehåll och föreslår kategori
+3. Om kunskapsbas: Behöver bearbetas, inte bara länkas
+4. Om resources: Kvalitetscheck – är det värt att spara?
 
 ---
 
 ## 🔜 Kommande utveckling
 
-- Vi kan lägga till fler mappar (ex. `public`, `projects`, `integrations`) om behov uppstår.
-- Vi kommer använda vissa av dessa delar direkt i CIT-workshops, dokumentation och pilotprojekt.
-- Vi skapar wikilänkar mellan alla `.md`-filer så det går att navigera oavsett mapp.
-- Vi kommer utvärdera hur detta repo kan bli **en plattform för DDI-agentifiering i större skala**, även utanför CIT.
+- **Bredare perspektiv:** Från "AI-agenter" till hela "Generativ AI"-området
+- **Fler mappar:** Möjligen `public/`, `archive/`, `templates/`
+- **API-integration:** Så att agenter kan lägga till innehåll direkt
+- **Kvalitetssäkring:** Automatisk bedömning av relevans och kvalitet
 
 ---
 

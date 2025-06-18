@@ -1,10 +1,19 @@
-# 🧪 04_experiments – Testyta för promptar, agenter och idéfragment
+# 🧪 04_experiments – Dumpningsplats för länkar och idéer
 
-Den här mappen är till för **allt du vill testa, tänka på, skissa upp, eller snabbt dumpa utan att det ska vara färdigt**.  
-Det är din plats för promptar, agentprototyper, flödesutkast, kodsnuttar, scheman, halva tankar och icke-svar.
+**👉 OSÄKER PÅ VAR NÅGOT HÖR HEMMA? DUMPA DET HÄR!**
 
-**Tänk: anteckningsblock, whiteboard, labb.**  
-Allt är tillåtet – så länge det kan hjälpa dig eller någon annan framåt.
+Det här är vår **sorteringshubb** där allt osorterat material börjar sin resa.
+
+**Workflow:**
+1. 📥 Du dumpar länkar, idéer, tankar här
+2. 🤖 AI-agenter (framtida) analyserar och föreslår rätt plats
+3. 📤 Material flyttas till rätt mapp när det är klart
+
+**Detta är framtidens automatiseringshubb** där AI-agenter kommer att:
+- Kategorisera länkar automatiskt
+- Föreslå om något ska bearbetas till kunskapsbasen
+- Kvalitetsbedöma om något är värt att spara i resources
+- Flagga material som kan bli workshops
 
 ---
 
