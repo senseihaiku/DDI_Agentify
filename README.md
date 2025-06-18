@@ -70,6 +70,28 @@ Osäker på var något hör hemma? Lägg det här så sorterar vi det senare.
 
 ---
 
+## 🤔 Varför GitHub? En förklaring
+
+**Detta är ett experiment** för att dela resurser på ett wiki-liknande sätt. GitHub kanske inte är rätt plats i längden, men det finns starka skäl att testa det:
+
+**Kort sikt:** Enkelt att strukturera och dela resurser
+**Lång sikt:** **Agent-to-Agent (A2A) kommunikation**
+
+När vi börjar jobba mer agentiskt kommer GitHub att fungera som en **levande kunskapsbas för våra AI-agenter**. De kan:
+- Läsa vår dokumentation direkt
+- Förstå våra strukturer och regler
+- Kommunicera med varandra genom samma gränssnitt
+- Bidra med innehåll baserat på våra guidelines
+
+### 📚 Hemläxa (frivillig men smart)
+**Lär dig lite Git/GitHub!**
+
+Inte främst för din skull – utan för **din framtida AI-agents skull**. När du jobbar agentiskt kommer din agent behöva förstå hur man navigerar och bidrar här. Ju bättre du förstår det, desto bättre kan du instruera din agent.
+
+*Tänk på det som att lära din framtida medarbetare hur hen ska jobba.*
+
+---
+
 ## 🤖 Workflow-regler för AI-agenter (under utveckling)
 
 **När du delar via AI-agent ska den veta:**
