@@ -76,8 +76,6 @@ Så det här är inte bara en plats för dig – det är en **gemensam arbetsmil
 
 ---
 
----
-
 ## 📁 Mappstruktur – fyra tydliga lager
 
 ### [01_workshops](./01_workshops/) – *Production Ready*
