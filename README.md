@@ -70,25 +70,40 @@ Osäker på var något hör hemma? Lägg det här så sorterar vi det senare.
 
 ---
 
-## 🤔 Varför GitHub? En förklaring
+## 🤔 Varför GitHub? En förklaring för dig (och din framtida AI-agent)
 
-**Detta är ett experiment** för att dela resurser på ett wiki-liknande sätt. GitHub kanske inte är rätt plats i längden, men det finns starka skäl att testa det:
+Det här repo:t är ett experiment i att dela resurser, kunskap och arbetsflöden på ett wiki-liknande sätt. Kanske är GitHub inte den slutliga lösningen – men det finns starka skäl till att använda det redan nu:
 
-**Kort sikt:** Enkelt att strukturera och dela resurser
-**Lång sikt:** **Agent-to-Agent (A2A) kommunikation**
+### 🔹 Kort sikt
+- Lätt att strukturera och versionera information  
+- Enkelt att dela, länka och navigera  
+- Kan användas både för text, kod, prompts, systemdokumentation  
 
-När vi börjar jobba mer agentiskt kommer GitHub att fungera som en **levande kunskapsbas för våra AI-agenter**. De kan:
-- Läsa vår dokumentation direkt
-- Förstå våra strukturer och regler
-- Kommunicera med varandra genom samma gränssnitt
-- Bidra med innehåll baserat på våra guidelines
+### 🔹 Lång sikt: AI-kompatibilitet
 
-### 📚 Hemläxa (frivillig men smart)
-**Lär dig lite Git/GitHub!**
+GitHub är inte bara för utvecklare längre. Det är redan idag en **AI-vänlig miljö**, och kommer på sikt kunna fungera som **arbetsyta och minneslager för våra agenter**.
 
-Inte främst för din skull – utan för **din framtida AI-agents skull**. När du jobbar agentiskt kommer din agent behöva förstå hur man navigerar och bidrar här. Ju bättre du förstår det, desto bättre kan du instruera din agent.
+Moderna språkmodeller som ChatGPT, Claude och Gemini:
 
-*Tänk på det som att lära din framtida medarbetare hur hen ska jobba.*
+- Förstår GitHubs struktur (filer, commits, diffs, pull requests)
+- Kan läsa `.md`-filer och följa agentinstruktioner direkt i repos
+- Kan kopplas till repo:t och sköta dialog, uppdateringar och reflektioner via API
+- Kan iterera på prompts, policies, verktygslogik och innehåll – i realtid
+
+Med andra ord: **din framtida AI-agent kommer troligen jobba här.**  
+Så det här är inte bara en plats för dig – det är en **gemensam arbetsmiljö för människa och maskin.**
+
+---
+
+## 📚 Hemläxa (frivillig men strategisk)
+
+Lär dig grunderna i Git och GitHub.
+
+Inte främst för din egen skull – utan för att **kunna träna, instruera och samarbeta med din agent i framtiden.** Ju bättre du förstår hur repo:t funkar, desto bättre instruktioner kommer du kunna ge.
+
+_Tänk på det som att lära din framtida kollega hur arbetsplatsen fungerar.
+_
+> Tips: GitHub har bra [guider](https://docs.github.com) och massor av videos på YouTube. Du kan också fråga din favorit-AI hur du kommer igång.
 
 ---
 
