@@ -95,14 +95,15 @@ Så det här är inte bara en plats för dig – det är en **gemensam arbetsmil
 
 ---
 
-## 📚 Hemläxa (frivillig men strategisk)
+> ## 📚 Hemläxa (frivillig men strategisk)
 
 Lär dig grunderna i Git och GitHub.
 
 Inte främst för din egen skull – utan för att **kunna träna, instruera och samarbeta med din agent i framtiden.** Ju bättre du förstår hur repo:t funkar, desto bättre instruktioner kommer du kunna ge.
 
-_Tänk på det som att lära din framtida kollega hur arbetsplatsen fungerar.
-_
+*Tänk på det som att lära din framtida kollega hur arbetsplatsen fungerar.*
+
+
 > Tips: GitHub har bra [guider](https://docs.github.com) och massor av videos på YouTube. Du kan också fråga din favorit-AI hur du kommer igång.
 
 ---
