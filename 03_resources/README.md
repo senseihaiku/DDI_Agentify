@@ -25,6 +25,13 @@ Här samlar vi **artiklar, videos och material som inspirerar** vårt arbete med
 - `spotify-agentifiering-case.md` (hur de arbetar med AI)
 - `workshop-facilitering-tips.md` (metoder vi kan använda)
 
+## 📊 Resurstabell
+
+| Resurs | Kategori | Material | Länk | Beskrivning |
+| ------ | -------- | -------- | ---- | ----------- |
+| AI Agents for Beginners | Workshop | GitHub-repo | <https://github.com/microsoft/ai-agents-for-beginners> | Microsofts öppna repo med kod och övningar för att lära sig bygga AI-agenter. Bra start för nybörjare. |
+
+
 ---
 
 **/resources**  
