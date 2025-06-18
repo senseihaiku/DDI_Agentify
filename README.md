@@ -38,6 +38,46 @@ När strukturen är klar och reglerna definierade:
 
 ---
 
+## 🤔 Varför GitHub? En förklaring för dig (och din framtida AI-agent)
+
+Det här repo:t är ett experiment i att dela resurser, kunskap och arbetsflöden på ett wiki-liknande sätt. Kanske är GitHub inte den slutliga lösningen – men det finns starka skäl till att använda det redan nu:
+
+### 🔹 Kort sikt
+- Lätt att strukturera och versionera information  
+- Enkelt att dela, länka och navigera  
+- Kan användas både för text, kod, prompts, systemdokumentation  
+
+### 🔹 Lång sikt: AI-kompatibilitet
+
+GitHub är inte bara för utvecklare längre. Det är redan idag en **AI-vänlig miljö**, och kommer på sikt kunna fungera som **arbetsyta och minneslager för våra agenter**.
+
+Moderna språkmodeller som ChatGPT, Claude och Gemini:
+
+- Förstår GitHubs struktur (filer, commits, diffs, pull requests)
+- Kan läsa `.md`-filer och följa agentinstruktioner direkt i repos
+- Kan kopplas till repo:t och sköta dialog, uppdateringar och reflektioner via API
+- Kan iterera på prompts, policies, verktygslogik och innehåll – i realtid
+
+Med andra ord: **din framtida AI-agent kommer troligen jobba här.**  
+Så det här är inte bara en plats för dig – det är en **gemensam arbetsmiljö för människa och maskin.**
+
+---
+
+> ## 📚 Hemläxa (frivillig men strategisk)
+>
+> Lär dig grunderna i Git och GitHub.
+>
+> Inte främst för din egen skull – utan för att **kunna träna, instruera och samarbeta med din agent i framtiden.** Ju bättre du förstår hur repo:t funkar, desto bättre instruktioner kommer du kunna ge.
+>
+> *Tänk på det som att lära din framtida kollega hur arbetsplatsen fungerar.*
+>
+>
+> Tips: GitHub har bra [guider](https://docs.github.com) och massor av videos på YouTube. Du kan också fråga din favorit-AI hur du kommer igång.
+
+---
+
+---
+
 ## 📁 Mappstruktur – fyra tydliga lager
 
 ### [01_workshops](./01_workshops/) – *Production Ready*
@@ -70,43 +110,6 @@ Osäker på var något hör hemma? Lägg det här så sorterar vi det senare.
 
 ---
 
-## 🤔 Varför GitHub? En förklaring för dig (och din framtida AI-agent)
-
-Det här repo:t är ett experiment i att dela resurser, kunskap och arbetsflöden på ett wiki-liknande sätt. Kanske är GitHub inte den slutliga lösningen – men det finns starka skäl till att använda det redan nu:
-
-### 🔹 Kort sikt
-- Lätt att strukturera och versionera information  
-- Enkelt att dela, länka och navigera  
-- Kan användas både för text, kod, prompts, systemdokumentation  
-
-### 🔹 Lång sikt: AI-kompatibilitet
-
-GitHub är inte bara för utvecklare längre. Det är redan idag en **AI-vänlig miljö**, och kommer på sikt kunna fungera som **arbetsyta och minneslager för våra agenter**.
-
-Moderna språkmodeller som ChatGPT, Claude och Gemini:
-
-- Förstår GitHubs struktur (filer, commits, diffs, pull requests)
-- Kan läsa `.md`-filer och följa agentinstruktioner direkt i repos
-- Kan kopplas till repo:t och sköta dialog, uppdateringar och reflektioner via API
-- Kan iterera på prompts, policies, verktygslogik och innehåll – i realtid
-
-Med andra ord: **din framtida AI-agent kommer troligen jobba här.**  
-Så det här är inte bara en plats för dig – det är en **gemensam arbetsmiljö för människa och maskin.**
-
----
-
-> ## 📚 Hemläxa (frivillig men strategisk)
-
-Lär dig grunderna i Git och GitHub.
-
-Inte främst för din egen skull – utan för att **kunna träna, instruera och samarbeta med din agent i framtiden.** Ju bättre du förstår hur repo:t funkar, desto bättre instruktioner kommer du kunna ge.
-
-*Tänk på det som att lära din framtida kollega hur arbetsplatsen fungerar.*
-
-
-> Tips: GitHub har bra [guider](https://docs.github.com) och massor av videos på YouTube. Du kan också fråga din favorit-AI hur du kommer igång.
-
----
 
 ## 🤖 Workflow-regler för AI-agenter (under utveckling)
 
